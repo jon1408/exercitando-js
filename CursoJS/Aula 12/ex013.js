@@ -1,7 +1,7 @@
 var agora = new Date()
 var diaSem = agora.getDay()
 /*
-    0 = Domingo
+    0 = Domingo - 0 é sempre lido como primeiro numero.
     1 = Segunda
     2 = Terça
     3 = Quarta
